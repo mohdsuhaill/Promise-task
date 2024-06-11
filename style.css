@@ -1,0 +1,8 @@
+body{
+    background-color: antiquewhite !important;
+}
+.container{
+    image-resolution:none;
+    background-color: beige;
+    background:local;
+}
